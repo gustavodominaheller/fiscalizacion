@@ -1,0 +1,11 @@
+Tutorial
+🚀 CRUD Full Stack con Laravel, Inertia y Vue 🛠️ (1080p_60fps_H264-128kbit_AAC)
+video 15:31
+
+Instalación del Starter Kit
+composer require laravel/breeze --dev
+php artisan breeze:install
+    Vue
+    none
+    0
+Ejecutar npm run dev
